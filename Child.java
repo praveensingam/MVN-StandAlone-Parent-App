@@ -4,6 +4,5 @@ public Child{
   int i=10
    System.out.println("Welcome to child class.."+i);
    System.out.println("Welcome to child class.."+str);
-   System.out.println("Welcome to child class..");
  }
 }
