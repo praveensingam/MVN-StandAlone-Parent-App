@@ -1,3 +1,0 @@
-There is nothing in this file.
-
-I am using this file to work on git conflicts.
