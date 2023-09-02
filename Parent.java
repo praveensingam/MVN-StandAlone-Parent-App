@@ -4,6 +4,7 @@
   property();
  }
   public static void property(){
-    System.out.println("I have some properties");
+  String str="Farming land";
+    System.out.println("I have some properties"+str);
   }
 }
