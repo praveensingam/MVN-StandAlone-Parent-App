@@ -3,6 +3,7 @@ public Child{
   String str="Hello here I am doing code changes"
   int i=10
    System.out.println("Welcome to child class.."+i+" "+str);
- int sub=i+sub;
+   int sub=i+sub;
+   System.out.println(sub);
  }
 }
